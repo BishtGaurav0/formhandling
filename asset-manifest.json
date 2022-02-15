@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formhandling/static/css/main.ffec3fb4.css",
+    "main.js": "/formhandling/static/js/main.8cfeb91d.js",
+    "static/js/787.5f35b8c9.chunk.js": "/formhandling/static/js/787.5f35b8c9.chunk.js",
+    "index.html": "/formhandling/index.html",
+    "main.ffec3fb4.css.map": "/formhandling/static/css/main.ffec3fb4.css.map",
+    "main.8cfeb91d.js.map": "/formhandling/static/js/main.8cfeb91d.js.map",
+    "787.5f35b8c9.chunk.js.map": "/formhandling/static/js/787.5f35b8c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffec3fb4.css",
+    "static/js/main.8cfeb91d.js"
+  ]
+}
